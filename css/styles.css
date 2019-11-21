@@ -1,0 +1,19 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.carousel-item img{
+  max-height: 500px
+}
+@media only screen and (min-width:700px)
+#carouselExampleControls {
+  display: none;
+}
+body {
+color: black;
+font-family: Comic Sans MS;
+margin: 0px;
+}
