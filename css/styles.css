@@ -16,8 +16,23 @@ body {
 color: black;
 font-family: Comic Sans MS;
 margin: 0px;
-  div {
-    text-align: justify;
-    text-justify: inter-word;
-  }
+}
+
+.container2 {
+  border-style: solid;
+  border-width: medium;
+  border-color: teal;
+  text-align: center;
+  border-radius: 15px 50px;
+  height: 200;
+}
+
+.lead2 {
+  text-align: center;
+  text-justify: inter-word;
+  font-size: 12pt;
+}
+
+.aboutimage1 {  border-radius: 25px;
+  border: 2px solid #73AD21;
 }
